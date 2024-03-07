@@ -1,0 +1,8 @@
+pandas
+scipy
+seaborn
+matplotlib
+mlxtend
+scikit-learn
+xgboost
+
